@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "repl_python3_airdropbot"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+replit = "^3.2.4"
+python-telegram-bot = "^13.10"
+tweepy = "^4.4.0"
+socialblade = "^1.0.5"
+aiotube = "^1.4.5"
+Flask = "^2.0.2"
+web3 = "^5.26.0"
+eth-account = "^0.5.6"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

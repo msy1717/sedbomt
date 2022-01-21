@@ -1,0 +1,15 @@
+address - bnb wallet address
+at- access_token
+atsecret-access_token secret
+chainid-bnb chainid
+channelid-youtube channelid
+cid - twitter consumer_key
+csecret- twitter consumer_secret
+contractaddress- token smart contractaddress
+groupid - telegram groupid
+prikey - bnb wallet privatekey
+telegramchatid - telegramchatid
+token - telegram bot token
+twitterid - twitter username
+twitterurl- twitter profile url
+youtubeurl - youtube channel url
