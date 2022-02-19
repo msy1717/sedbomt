@@ -44,7 +44,7 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-my_secret = os.environ['token']
+my_secret = '5006517849:AAE6ySviKReO-NaR55IEDmbCF-WxxDf_4Dc'
 bot=Bot(my_secret)
 
 
